@@ -101,7 +101,6 @@ live performance.
 - Strict SL/TP on every trade  
 - No martingale  
 - No grid  
-- No hedging  
 - WFA methodology for robustness  
 - Multi-horizon diversification (A/B/C engines)  
 

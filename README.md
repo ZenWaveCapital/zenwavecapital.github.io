@@ -30,7 +30,7 @@ validation (A1–A4) confirmed parameter stability
 and regime robustness, allowing use of the full-
 window parameter set for the live model.
 - **Backtest and optimization period:** 11Y 9M (19/01/2014 – 14/11/2025)
-- **Next review and re-optimization:** 01/01/2028 📅
+- **Next review and re-optimization:** 01/01/2027 📅
 
 #### 📊 Backtest stats
 - **Profit Factor (PF):** 2.08
@@ -49,7 +49,7 @@ walk-forward slice, selected for robust IS/OOS
 alignment, PF/DD stability, and resilience across
 2018–2025 volatility regimes.
 - **Backtest and optimization period:** 7Y 4M (01/07/2018 – 14/11/2025)
-- **Next review and re-optimization:** 01/01/2027 📅
+- **Next review and re-optimization:** 01/01/2026 📅
 
 #### 📊 Quant report
 [Quant Report](quant-report)
@@ -64,7 +64,7 @@ alignment, PF/DD stability, and resilience across
 2022–2025 regime optimization. Walk-forward slices
 will be added to validate stability across recent
 volatility shifts.
-- **Next review and re-optimization:** 01/07/2026 📅
+- **Next review and re-optimization:** 01/01/2026 📅
 
 
 ---

@@ -9,7 +9,7 @@ ZenWaveCapital focuses exclusively on **USDJPY breakout engines** across three t
 All models:
 
 - Use **fixed rules** and **server-side execution**  
-- Run with **strict SL/TP** and **no martingale, no grid, no hedging**  
+- Run with **strict SL/TP** and **no martingale, no grid**  
 - Are developed with **Walk-Forward Analysis (WFA)** and robustness in mind  
 
 ### 📈 Equity curve from ZenWave A 12-year backtest

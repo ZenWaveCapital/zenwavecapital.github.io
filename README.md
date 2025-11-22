@@ -10,22 +10,22 @@ All models:
 
 - Use **fixed rules** and **server-side execution**  
 - Run with **strict SL/TP**, **no martingale**, **no grid**, and **no simultaneous hedge positions**  
-- Are developed with **Walk-Forward Analysis (WFA)** and robustness as core design principles
+- Are developed with **Walk-Forward Analysis (WFA)** and robustness as core design principles [📊 Quant Report](quant-report)
 
 <br>
 
 ## 🧠 Portfolio Architecture (A/B/C Engines)
 
-             ZenWave Portfolio
+            ZenWave Portfolio
                     │
         ┌───────────┼───────────┐
         │           │           │
-    ZenWave A    ZenWave B   ZenWave C
-    Long-Term    Medium-Term Short-Term
+    ZenWave A   ZenWave B    ZenWave C
+    Long-Term   Medium-Term  Short-Term
         │           │           │
         └───────────┴───────────┘
                     │
-             Combined Output
+              Combined Output
 
 This structure creates **multi-horizon diversification**, reducing regime risk and improving long-term stability.
 
@@ -52,9 +52,6 @@ This structure creates **multi-horizon diversification**, reducing regime risk a
 - **Profit Factor (PF):** 2.08  
 - **Max Balance DD:** 35.61%
 
-#### 📊 Quant report
-[Quant Report](quant-report)
-
 ---
 
 ### ⚙️ [ZenWave B (Aggressive, 1.0% risk per trade)](https://ct-sc.icmarkets.com/copy/strategy/108888)
@@ -66,9 +63,6 @@ This structure creates **multi-horizon diversification**, reducing regime risk a
   2018–2025 volatility regimes.
 - **Backtest and optimization period:** 7Y 4M (01/07/2018 – 14/11/2025)
 - **Next review and re-optimization:** 01/01/2026 📅
-
-#### 📊 Quant report
-[Quant Report](quant-report)
 
 <br>
 
@@ -129,11 +123,11 @@ live performance.
      Take-Profit Logic
            │
            ▼
-    ┌──────────────────────────────────────────┐
-    │  No Martingale                           │
-    │  No Grid                                 │
-    │  No Simultaneous Hedge Positions         │
-    └──────────────────────────────────────────┘
+    ┌───────────────────────────────────┐
+    │  No Martingale                    │
+    │  No Grid                          │
+    │  No Simultaneous Hedge Positions  │
+    └───────────────────────────────────┘
            │
            ▼
      Server-Side Execution

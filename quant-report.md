@@ -70,12 +70,12 @@ All slices for both A and B show profitable, stable performance across distinct 
         Take-Profit Logic
                │
                ▼
-    ┌──────────────────────────────────────────┐
-    │  No Martingale                           │
-    │  No Grid                                 │
-    │  No Simultaneous Hedge Positions         │
-    │  Reversal entries are independent signals│
-    └──────────────────────────────────────────┘
+    ┌────────────────────────────────────────────┐
+    │  No Martingale                             │
+    │  No Grid                                   │
+    │  No Simultaneous Hedge Positions           │
+    │  Reversal entries are independent signals  │
+    └────────────────────────────────────────────┘
                │
                ▼
         Server-Side Execution

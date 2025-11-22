@@ -12,26 +12,21 @@ All models:
 - Run with **strict SL/TP**, **no martingale**, **no grid**, and **no simultaneous hedge positions**  
 - Are developed with **Walk-Forward Analysis (WFA)** and robustness as core design principles
 
----
+<br>
+<br>
 
 ## 🧠 Portfolio Architecture (A/B/C Engines)
 
-    ZenWave Portfolio
-           │
-    ┌──────┴────────┬──────────────┐
-    │               │              │
-    │       ZenWave A              │
-    │   Long-Term Breakouts        │
-    │                              │
-    └──────┬────────┘      ┌───────┘
-           │               │
-       ZenWave B (Medium-Term Breakouts)
-           │
-           ▼
-     ZenWave C (Short-Term Breakouts)
-           │
-           ▼
-     Combined Output
+             ZenWave Portfolio
+                    │
+        ┌───────────┼───────────┐
+        │           │           │
+    ZenWave A    ZenWave B   ZenWave C
+    Long-Term    Medium-Term Short-Term
+        │           │           │
+        └───────────┴───────────┘
+                    │
+             Combined Output
 
 This structure creates **multi-horizon diversification**, reducing regime risk and improving long-term stability.
 

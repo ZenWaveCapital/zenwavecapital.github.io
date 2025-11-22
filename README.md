@@ -12,6 +12,31 @@ All models:
 - Run with **strict SL/TP**, **no martingale**, **no grid**, and **no simultaneous hedge positions**  
 - Are developed with **Walk-Forward Analysis (WFA)** and robustness as core design principles
 
+---
+
+## 🧠 Portfolio Architecture (A/B/C Engines)
+
+    ZenWave Portfolio
+           │
+    ┌──────┴────────┬──────────────┐
+    │               │              │
+    │       ZenWave A              │
+    │   Long-Term Breakouts        │
+    │                              │
+    └──────┬────────┘      ┌───────┘
+           │               │
+       ZenWave B (Medium-Term Breakouts)
+           │
+           ▼
+     ZenWave C (Short-Term Breakouts)
+           │
+           ▼
+     Combined Output
+
+This structure creates **multi-horizon diversification**, reducing regime risk and improving long-term stability.
+
+---
+
 ### 📈 Equity curve from ZenWave A 12-year backtest
 
 <img src="https://iili.io/fdj3Hs1.md.jpg" alt="ZenWave A USDJPY equity curve" width="700">
@@ -104,6 +129,26 @@ live performance.
 - **No simultaneous hedge positions**  
 - WFA methodology for robustness  
 - Multi-horizon diversification (A/B/C engines)
+
+### 🔐 Risk-Control Framework
+
+    Position Sizing (1% risk)
+           │
+           ▼
+     Stop-Loss Logic
+           │
+           ▼
+     Take-Profit Logic
+           │
+           ▼
+    ┌──────────────────────────────────────────┐
+    │  No Martingale                           │
+    │  No Grid                                 │
+    │  No Simultaneous Hedge Positions         │
+    └──────────────────────────────────────────┘
+           │
+           ▼
+     Server-Side Execution
 
 <br>
 <br>

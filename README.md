@@ -13,6 +13,7 @@ All models:
 - Are developed with **Walk-Forward Analysis (WFA)** and robustness as core design principles
 
 <br>
+---
 <br>
 
 ## 🧠 Portfolio Architecture (A/B/C Engines)
@@ -30,13 +31,12 @@ All models:
 
 This structure creates **multi-horizon diversification**, reducing regime risk and improving long-term stability.
 
----
-
 ### 📈 Equity curve from ZenWave A 12-year backtest
 
 <img src="https://iili.io/fdj3Hs1.md.jpg" alt="ZenWave A USDJPY equity curve" width="700">
 
 <br>
+---
 <br>
 
 ## 🚀 Current Public Strategies
@@ -75,6 +75,7 @@ This structure creates **multi-horizon diversification**, reducing regime risk a
 [Quant Report](quant-report)
 
 <br>
+---
 <br>
 
 ## 👷‍♂️ Currently in the Works
@@ -87,6 +88,7 @@ This structure creates **multi-horizon diversification**, reducing regime risk a
 - **Next update:** Projected after completion of additional WFA slices and parameter stability validation.
 
 <br>
+---
 <br>
 
 ## 🧭 Future Roadmap: Multi-Tier Risk Scaling
@@ -111,6 +113,7 @@ This ensures that every tier begins with real capital and verified
 live performance.
 
 <br>
+---
 <br>
 
 ## 📊 Philosophy & Principles
@@ -146,6 +149,7 @@ live performance.
      Server-Side Execution
 
 <br>
+---
 <br>
 
 ## 📢 Updates
@@ -154,6 +158,7 @@ Stay informed with official strategy updates, releases, and announcements.
 [Join the Telegram Channel](https://t.me/ZenWaveCapital)
 
 <br>
+---
 <br>
 
 ## 📜 Disclaimer

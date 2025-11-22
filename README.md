@@ -9,8 +9,8 @@ ZenWaveCapital focuses exclusively on **USDJPY breakout engines** across three t
 All models:
 
 - Use **fixed rules** and **server-side execution**  
-- Run with **strict SL/TP** and **no martingale, no grid**  
-- Are developed with **Walk-Forward Analysis (WFA)** and robustness in mind  
+- Run with **strict SL/TP** and **no martingale, no grid, no simultaneous hedge positions**
+- Are developed with **Walk-Forward Analysis (WFA)** and robustness as core design principles
 
 ### 📈 Equity curve from ZenWave A 12-year backtest
 
@@ -19,6 +19,8 @@ All models:
 <br>
 
 ---
+
+<br>
 
 ## 🚀 Current Public Strategies
 
@@ -59,6 +61,8 @@ alignment, PF/DD stability, and resilience across
 
 ---
 
+<br>
+
 ## 👷‍♂️ Currently in the Works
 
 ### ⚙️ ZenWave C (Aggressive, 1.0% risk per trade)]
@@ -68,10 +72,11 @@ alignment, PF/DD stability, and resilience across
 - **Availability:** ZenWave C is *not yet available* for copy-trading. Only A and B are currently production-ready.
 - **Next update:** Projected after completion of additional WFA slices and parameter stability validation.
 
-
 <br>
 
 ---
+
+<br>
 
 ## 🧭 Future Roadmap: Multi-Tier Risk Scaling
 
@@ -98,20 +103,25 @@ live performance.
 
 ---
 
+<br>
+
 ## 📊 Philosophy & Principles
 
-- Single-instrument focus: **USDJPY only**  
-- Real tick data with realistic spreads  
-- Server-side pending orders  
-- Strict SL/TP on every trade  
-- No martingale  
-- No grid  
+- Single-instrument focus: **USDJPY only**
+- Real tick data with realistic spreads
+- Server-side pending orders
+- Strict SL/TP on every trade
+- No martingale
+- No grid
+- No simultaneous hedge positions
 - WFA methodology for robustness  
-- Multi-horizon diversification (A/B/C engines)  
+- Multi-horizon diversification (A/B/C engines)
 
 <br>
 
 ---
+
+<br>
 
 ## 📢 Updates
 
@@ -121,6 +131,8 @@ Stay informed with official strategy updates, releases, and announcements.
 <br>
 
 ---
+
+<br>
 
 ## 📜 Disclaimer
 

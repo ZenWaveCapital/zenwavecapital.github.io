@@ -16,6 +16,7 @@ All models:
 
 <img src="https://iili.io/fdj3Hs1.md.jpg" alt="ZenWave A USDJPY equity curve" width="700">
 
+<br>
 
 ---
 
@@ -54,18 +55,21 @@ alignment, PF/DD stability, and resilience across
 #### 📊 Quant report
 [Quant Report](quant-report)
 
+<br>
 
 ---
 
-### ⚙️ [ZenWave C (Aggressive, 1.0% risk per trade)](https://ct-sc.icmarkets.com/copy/strategy/108887)
-- **Type:** Short-term modern volatility engine
-- **Status:** Walk-Forward validation scheduled 📅
-- **Params used:** Initial production parameters are taken from a
-2022–2025 regime optimization. Walk-forward slices
-will be added to validate stability across recent
-volatility shifts.
-- **Next review and re-optimization:** 01/01/2026 📅
+## 👷‍♂️ Currently in the Works
 
+### ⚙️ ZenWave C (Aggressive, 1.0% risk per trade)]
+- **Type:** Short-term modern volatility engine
+- **Status:** ZenWave C is currently in active quantitative research and undergoing a full Walk-Forward Analysis (WFA) across the 2022–2025 USDJPY regime. C will only be released once the complete WFA cycle (C1–C5) is passed and robustness is confirmed across all out-of-sample periods.
+- **Purpose:** ZenWave C is designed to capture short-term volatility bursts during Tokyo and London session transitions, complementing the structural long-term engine (A) and the medium-term modern regime engine (B).
+- **Availability:** ZenWave C is *not yet available* for copy-trading. Only A and B are currently production-ready.
+- **Next update:** Projected after completion of additional WFA slices and parameter stability validation.
+
+
+<br>
 
 ---
 
@@ -90,6 +94,7 @@ to seed the required starting balance (approx. €100 per tier).
 This ensures that every tier begins with real capital and verified
 live performance.
 
+<br>
 
 ---
 
@@ -104,6 +109,7 @@ live performance.
 - WFA methodology for robustness  
 - Multi-horizon diversification (A/B/C engines)  
 
+<br>
 
 ---
 
@@ -111,6 +117,8 @@ live performance.
 
 Stay informed with official strategy updates, releases, and announcements.
 [Join the Telegram Channel](https://t.me/ZenWaveCapital)
+
+<br>
 
 ---
 

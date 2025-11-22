@@ -3,19 +3,19 @@ layout: default
 title: ZenWave A + B Quantitative Validation Report
 ---
 
-# ZenWaveCapital Quantitative Validation Report  
+## ZenWaveCapital Quantitative Validation Report  
 **Models:** ZenWave A & ZenWave B  
 **Market:** USDJPY  
 **Methodology:** Systematic, Quantitative, Fully Automated
 
 ---
 
-## 📐 Walk-Forward Analysis (WFA) Overview
+### 📐 Walk-Forward Analysis (WFA) Overview
 
 ZenWave uses **multi-slice Walk-Forward Analysis (WFA)** to validate robustness across independent out-of-sample (OOS) windows.  
 All slices for both A and B show profitable, stable performance across distinct market regimes.
 
-### **A-Series WFA Timeline**
+#### **A-Series WFA Timeline**
 
     A-Series (2014–2025)
 
@@ -24,7 +24,7 @@ All slices for both A and B show profitable, stable performance across distinct 
     │ 2014–2018    │ 2018–2020 │ 2020–2022 │ 2022–2023 │ 2023–2025   │
     └──────────────┴───────────┴───────────┴───────────┴─────────────┘
 
-### **B-Series WFA Timeline**
+#### **B-Series WFA Timeline**
 
     B-Series (2018–2025)
 
@@ -33,9 +33,11 @@ All slices for both A and B show profitable, stable performance across distinct 
     │ 2018–2020 │ 2020–2021 │ 2021–2023 │ 2023–2024 │ 2024–2025  │
     └───────────┴───────────┴───────────┴───────────┴────────────┘
 
+<br>
+
 ---
 
-## 🧠 Portfolio Structure (A/B Engines)
+### 🧠 Portfolio Structure (A/B Engines)
 
     ZenWave Portfolio
            │
@@ -57,7 +59,7 @@ All slices for both A and B show profitable, stable performance across distinct 
 
 ---
 
-## 🔐 Risk-Control Framework (A & B)
+### 🔐 Risk-Control Framework (A & B)
 
     Position Sizing (1% risk)
                │
@@ -80,34 +82,42 @@ All slices for both A and B show profitable, stable performance across distinct 
 
 This matches institutional-grade risk standards: no position escalation, no grid layers, and no offset-hedge structures.
 
+<br>
+
 ---
 
-# 📘 ZenWave A — Quant Validation Summary
+<br>
+
+## 📘 ZenWave A — Quant Validation Summary
 
 ### **Strategy Type**
 Long-term USDJPY breakout engine (2014–2025).  
 Fixed SL/TP, rule-based automation, no martingale, no grid, no simultaneous hedging.
 
-### **Walk-Forward Analysis (A1–A4)**
+#### **Walk-Forward Analysis (A1–A4)**
 - All slices profitable out-of-sample  
 - Stable profit factor across windows  
 - Controlled drawdowns, no OOS failures  
 - Consistent equity shape across market regimes  
 - Parameters show natural stability across a decade  
 
-### **Robustness Conclusion**
+#### **Robustness Conclusion**
 ZenWave A passes WFA with **high confidence**.  
 The full-window (2014–2025) parameter set is validated and serves as the portfolio’s long-horizon backbone.
 
+<br>
+
 ---
 
-# 📘 ZenWave B — Quant Validation Summary
+<br>
 
-### **Strategy Type**
+## 📘 ZenWave B — Quant Validation Summary
+
+#### **Strategy Type**
 Medium-term USDJPY breakout/trend engine (2018–2025).  
 Adaptive breakout logic with fixed SL/TP.
 
-### **Walk-Forward Analysis (B1–B5)**
+#### **Walk-Forward Analysis (B1–B5)**
 All slices produced **profitable** out-of-sample performance:
 
 - **B1** – Profitable; moderate stability  
@@ -116,13 +126,13 @@ All slices produced **profitable** out-of-sample performance:
 - **B4** – Excellent stability; strong OOS  
 - **B5** – Best alignment with 2024–2025 volatility regime  
 
-### **Parameter Behavior**
+#### **Parameter Behavior**
 - Expected, controlled drift between slices  
 - No chaotic or fragile behavior  
 - OOS performance robust across changing volatility regimes  
 - B4 and B5 slices indicate strongest stability and regime-fit
 
-### **Robustness Conclusion**
+#### **Robustness Conclusion**
 ZenWave B passes WFA.  
 B5 parameter set is recommended for live use, offering:
 - strong OOS behavior  

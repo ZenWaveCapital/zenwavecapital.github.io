@@ -94,10 +94,10 @@ Explore all public ZenWave strategies on cTrader:
 
 ### ⚙️ ZenWave C (Aggressive, 1.0% risk per trade)
 - **Type:** Short-term modern volatility engine  
-- **Status:** ZenWave C is currently in active quantitative research and undergoing a full Walk-Forward Analysis (WFA) across the 2022–2025 USDJPY regime. C will only be released once the complete WFA cycle (C1–C5) is passed and robustness is confirmed across all out-of-sample periods.
-- **Purpose:** ZenWave C is designed to capture short-term volatility bursts during Tokyo and London session transitions, complementing the structural long-term engine (A) and the medium-term modern regime engine (B).
-- **Availability:** ZenWave C is *not yet available* for copy-trading. Only A and B are currently production-ready.
-- **Next update:** Projected after completion of additional WFA slices and parameter stability validation.
+- **Status:** ZenWave C is currently being **rebuilt from scratch** using a simplified and cleaner quant framework. Development is in the early research phase, and the first version will undergo a full Walk-Forward Analysis (WFA) once the core logic is complete.  
+- **Purpose:** Designed to capture short-term volatility bursts during Tokyo/London session transitions, complementing the long-term engine (A) and the medium-term engine (B).  
+- **Availability:** ZenWave C is *not yet available* for copy-trading. Only A and B are currently production-ready.  
+- **Next update:** After completion of the initial core model and preparation for the first WFA slice (C1).
 
 <br>
 
@@ -118,7 +118,7 @@ This allows followers to choose a risk level that matches their goals.
 ### Planned release schedule:
 Each additional tier (Balanced, Conservative, Ultra-Conservative)
 will be launched once sufficient subscription revenue is available
-to seed the required starting balance (approx. €100 per tier).
+to seed the required starting balance (approx. €300 per tier).
 This ensures that every tier begins with real capital and verified
 live performance.
 

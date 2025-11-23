@@ -1,4 +1,6 @@
-theme: jekyll-theme-slate
+remote_theme: "mmistakes/minimal-mistakes@latest"
+plugins:
+  - jekyll-include-cache
 logo: logo.png
 title: ZenWaveCapital
 description: Systematic USDJPY breakout engines with institutional-style validation, strict risk controls, and full automation.

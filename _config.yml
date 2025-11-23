@@ -1,5 +1,6 @@
-remote_theme: "mmistakes/minimal-mistakes@latest"
+remote_theme: "mmistakes/minimal-mistakes"
 plugins:
+  - jekyll-remote-theme
   - jekyll-include-cache
 logo: logo.png
 title: ZenWaveCapital

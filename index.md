@@ -118,7 +118,7 @@ This allows followers to choose a risk level that matches their goals.
 ### Planned release schedule:
 Each additional tier (Balanced, Conservative, Ultra-Conservative)
 will be launched once sufficient subscription revenue is available
-to seed the required starting balance (approx. €300 per tier).
+to seed the required starting balance (€300 per tier).
 This ensures that every tier begins with real capital and verified
 live performance.
 

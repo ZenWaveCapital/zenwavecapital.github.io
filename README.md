@@ -37,7 +37,7 @@ This structure creates **multi-horizon diversification**, reducing regime risk a
 
 ## 🚀 Current Public Strategies
 
-### ⚙️ [ZenWave A (Aggressive, 1.0% risk per trade)](https://ct-sc.icmarkets.com/copy/strategy/109013)
+### ⚙️ [ZenWave A (Aggressive, 1.0% risk per trade)](https://ct-sc.icmarkets.com/investor/Or0DfD4)
 - **Type:** Long-term structural breakout engine  
 - **Status:** Walk-Forward validated ✅ (A1–A4 passed)
 - **Params used:** Production parameters were selected from a full
@@ -54,7 +54,7 @@ This structure creates **multi-horizon diversification**, reducing regime risk a
 
 ---
 
-### ⚙️ [ZenWave B (Aggressive, 1.0% risk per trade)](https://ct-sc.icmarkets.com/copy/strategy/109014)
+### ⚙️ [ZenWave B (Aggressive, 1.0% risk per trade)](https://ct-sc.icmarkets.com/investor/5R1v2xJQ)
 - **Type:** Medium-term adaptive trend engine  
 - **Status:** Walk-Forward validated ✅ (B1–B5 passed)
 - **Params used:** Production parameters are taken from the median

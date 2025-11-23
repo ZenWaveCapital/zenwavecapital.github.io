@@ -41,7 +41,7 @@ This structure creates **multi-horizon diversification**, reducing regime risk a
 Explore all public ZenWave strategies on cTrader:  
 **[ZenWaveCapital on cTrader](https://ctrader.com/u/ZenWaveCapital)**
 
-<br>
+---
 
 ### ⚙️ [ZenWave A (Aggressive, 1.0% risk per trade)](https://ct-sc.icmarkets.com/investor/Or0DfD4)
 - **Type:** Long-term structural breakout engine  

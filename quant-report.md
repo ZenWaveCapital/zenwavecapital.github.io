@@ -1,6 +1,10 @@
 ---
-layout: default
-title: ZenWave A + B Quantitative Validation Report
+layout: single
+title: "ZenWave A + B Quantitative Validation Report"
+permalink: /quant-report/
+toc: true
+toc_sticky: true
+toc_label: "Sections"
 ---
 
 ## ZenWaveCapital Quantitative Validation Report  

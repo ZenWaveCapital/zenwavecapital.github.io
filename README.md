@@ -136,8 +136,13 @@ live performance.
 
 ## 📢 Updates
 
-Stay informed with official strategy updates, releases, and announcements.  
-[Join the Telegram Channel](https://t.me/ZenWaveCapital)
+📺 **YouTube**  
+Follow ongoing research, development logs, and in-depth breakdowns on the  
+**[ZenWaveCapital YouTube Channel](https://www.youtube.com/@ZenWaveCapital)**
+
+📨 **Telegram**  
+Get real-time notifications for strategy updates, releases, and important announcements:  
+**[Join the Telegram Channel](https://t.me/ZenWaveCapital)**
 
 <br>
 

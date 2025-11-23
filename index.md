@@ -42,9 +42,22 @@ This structure creates **multi-horizon diversification**, reducing regime risk a
 
 ## 🚀 Current Public Strategies
 
+### 📢 Official Launch — Public Live Track Record
+
+ZenWaveCapital begins its **public live performance** on **23.11.2025**,  
+with fresh, cleanly funded public strategy accounts:
+
+- **ZenWave A — €300 starting balance**  
+- **ZenWave B — €300 starting balance**
+
+These accounts form the **official, transparent public track record**  
+for the ZenWave USDJPY quant engines.
+
 🔗 **cTrader Profile:**  
 Explore all public ZenWave strategies on cTrader:  
 **[ZenWaveCapital on cTrader](https://ctrader.com/u/ZenWaveCapital)**
+
+---
 
 ---
 

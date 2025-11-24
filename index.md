@@ -6,8 +6,6 @@ toc_label: "Sections"
 author_profile: true
 ---
 
-## 📌 Overview
-
 ZenWaveCapital focuses exclusively on **USDJPY breakout engines** across three time horizons:
 
 - **ZenWave A** – Long-term USDJPY breakout engine  

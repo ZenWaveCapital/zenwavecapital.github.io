@@ -13,10 +13,10 @@ author:
   bio      : "Systematic USDJPY breakout engines with institutional-style validation, strict risk controls, and full automation."
   links:
     - label: "YouTube"
-      icon: "fas fa-fw fa-youtube"
+      icon: "fab fa-fw fa-youtube"
       url: "https://www.youtube.com/@ZenWaveCapital"
     - label: "Telegram"
-      icon: "fab fa-fw fa-telegram"
+      icon: "fab fa-fw fa-telegram-plane"
       url: "https://t.me/ZenWaveCapital"
 atom_feed:
   hide: true
@@ -26,5 +26,5 @@ footer:
       icon: "fab fa-fw fa-youtube"
       url: "https://www.youtube.com/@ZenWaveCapital"
     - label: "Telegram"
-      icon: "fab fa-fw fa-telegram"
+      icon: "fab fa-fw fa-telegram-plane"
       url: "https://t.me/ZenWaveCapital"

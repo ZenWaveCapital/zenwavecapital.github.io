@@ -7,6 +7,7 @@ minimal_mistakes_skin: "dark"
 logo: logo.png
 title: ZenWaveCapital
 description: Systematic USDJPY breakout engines with institutional-style validation, strict risk controls, and full automation.
+layout: single
 author:
   name     : "ZenWaveCapital"
   avatar   : "/logo.png"

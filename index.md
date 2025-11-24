@@ -1,6 +1,8 @@
 ---
 toc: true
 title: "ZenWaveCapital"
+layout: home
+author_profile: true
 ---
 
 ## 📌 Overview

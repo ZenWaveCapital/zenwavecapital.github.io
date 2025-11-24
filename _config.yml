@@ -9,3 +9,11 @@ title: ZenWaveCapital
 description: Systematic USDJPY breakout engines with institutional-style validation, strict risk controls, and full automation.
 atom_feed:
   hide: true
+footer:
+  links:
+    - label: "YouTube"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://www.youtube.com/@ZenWaveCapital"
+    - label: "Telegram"
+      icon: "fab fa-fw fa-telegram"
+      url: "https://t.me/ZenWaveCapital"

@@ -1,7 +1,8 @@
 ---
-toc: true
-title: "ZenWaveCapital"
 layout: home
+toc: true
+toc_sticky: true
+toc_label: "Sections"
 author_profile: true
 ---
 

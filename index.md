@@ -157,18 +157,6 @@ live performance.
 
 <br>
 
-## 📢 Updates
-
-📺 **YouTube**  
-Follow ongoing research, development logs, and in-depth breakdowns on the  
-**[ZenWaveCapital YouTube Channel](https://www.youtube.com/@ZenWaveCapital)**
-
-📨 **Telegram**  
-Get real-time notifications for strategy updates, releases, and important announcements:  
-**[Join the Telegram Channel](https://t.me/ZenWaveCapital)**
-
-<br>
-
 ## 📜 Disclaimer
 
 Trading FX and CFDs on margin involves a **high level of risk** and may not be suitable for all investors.  

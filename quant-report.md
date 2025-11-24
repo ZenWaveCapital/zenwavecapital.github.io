@@ -5,6 +5,7 @@ permalink: /quant-report/
 toc: true
 toc_sticky: true
 toc_label: "Sections"
+author_profile: true
 ---
 
 ## ZenWaveCapital Quantitative Validation Report  

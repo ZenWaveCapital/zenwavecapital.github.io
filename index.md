@@ -1,5 +1,5 @@
 ---
-layout: single
+toc: true
 title: "ZenWaveCapital"
 ---
 

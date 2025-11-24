@@ -1,15 +1,29 @@
+# -------------------------
+# Theme + Plugins
+# -------------------------
 remote_theme: "mmistakes/minimal-mistakes"
+
 plugins:
   - jekyll-remote-theme
   - jekyll-include-cache
+
 markdown: kramdown
 minimal_mistakes_skin: "dark"
-logo: logo.png
-title: ZenWaveCapital
-description: Systematic USDJPY breakout engines with institutional-style validation, strict risk controls, and full automation.
+
+# -------------------------
+# Site Identity
+# -------------------------
+title: "ZenWaveCapital"
+description: "Systematic USDJPY breakout engines with institutional-style validation, strict risk controls, and full automation."
+logo: "/logo.png"
+
+# -------------------------
+# Author Profile
+# -------------------------
 author:
-  avatar   : "/logo.png"
-  bio      : "Systematic USDJPY breakout engines with institutional-style validation, strict risk controls, and full automation."
+  name: "ZenWaveCapital"
+  avatar: "/logo.png"
+  bio: "Systematic USDJPY breakout engines with institutional-style validation, strict risk controls, and full automation."
   links:
     - label: "YouTube"
       icon: "fab fa-fw fa-youtube"
@@ -17,8 +31,16 @@ author:
     - label: "Telegram"
       icon: "fab fa-fw fa-telegram-plane"
       url: "https://t.me/ZenWaveCapital"
+
+# -------------------------
+# RSS Feed
+# -------------------------
 atom_feed:
   hide: true
+
+# -------------------------
+# Footer Links
+# -------------------------
 footer:
   links:
     - label: "YouTube"

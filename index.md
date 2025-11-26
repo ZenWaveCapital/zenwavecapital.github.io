@@ -1,6 +1,6 @@
 ---
 layout: single
-title: 📈 Equity curve from ZenWave A 12-year backtest
+title: ZenWave A 12-year backtest
 author_profile: true
 ---
 

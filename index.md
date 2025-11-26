@@ -93,7 +93,7 @@ Explore all public ZenWave strategies on cTrader:
 
 ### ⚙️ ZenWave C (Aggressive, 1.0% risk per trade)
 - **Type:** Short-term modern volatility engine  
-- **Status:** ZenWave C is currently being **rebuilt from scratch** using a simplified and cleaner quant framework. Development is in the early research phase, and the first version will undergo a full Walk-Forward Analysis (WFA) once the core logic is complete.  
+- **Status:** Work on ZenWave C will commence in 2026. It will be **rebuilt from scratch** using a simplified and cleaner quant framework. Development is in the early research phase, and the first version will undergo a full Walk-Forward Analysis (WFA) once the core logic is complete.  
 - **Purpose:** Designed to capture short-term volatility bursts during Tokyo/London session transitions, complementing the long-term engine (A) and the medium-term engine (B).  
 - **Availability:** ZenWave C is *not yet available* for copy-trading. Only A and B are currently production-ready.  
 - **Next update:** After completion of the initial core model and preparation for the first WFA slice (C1).

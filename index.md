@@ -10,9 +10,9 @@ author_profile: true
 
 ZenWaveCapital focuses exclusively on **USDJPY breakout engines** across three time horizons:
 
-- **ZenWave A** – Long-term USDJPY breakout engine  
-- **ZenWave B** – Medium-term USDJPY trend & breakout engine  
-- **ZenWave C** – Short-term, high-adaptation USDJPY breakout engine  
+- **ZenWave A** – Long-term USDJPY structured logic
+- **ZenWave B** – Medium-term USDJPY adaptive logic
+- **ZenWave C** – Short-term USDJPY reactive logic
 
 All models:
 

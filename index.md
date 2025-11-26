@@ -1,8 +1,12 @@
 ---
 layout: single
-title: About
+title: 📈 Equity curve from ZenWave A 12-year backtest
 author_profile: true
 ---
+
+<img src="/zenwave-a-12-secs.gif" alt="ZenWave A USDJPY equity curve 12 years in 12 seconds" width="700">
+
+<br>
 
 ZenWaveCapital focuses exclusively on **USDJPY breakout engines** across three time horizons:
 
@@ -32,10 +36,6 @@ All models:
               Combined Output
 
 This structure creates **multi-horizon diversification**, reducing regime risk and improving long-term stability.
-
-### 📈 Equity curve from ZenWave A 12-year backtest
-
-<img src="/zenwave-a-12-secs.gif" alt="ZenWave A USDJPY equity curve 12 years in 12 seconds" width="700">
 
 <br>
 

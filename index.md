@@ -35,7 +35,6 @@ This structure creates **multi-horizon diversification**, reducing regime risk a
 
 ### 📈 Equity curve from ZenWave A 12-year backtest
 
-<img src="https://iili.io/fdj3Hs1.md.jpg" alt="ZenWave A USDJPY equity curve" width="700">
 <img src="/zenwave-a-12-secs.gif" alt="ZenWave A USDJPY equity curve 12 years in 12 seconds" width="700">
 
 <br>

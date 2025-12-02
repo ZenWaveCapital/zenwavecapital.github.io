@@ -36,7 +36,8 @@ All slices for both A and B show profitable, stable performance across distinct 
     | A4    | OOS  | 2024–2025 |
 
 {: .notice--info}
-**A4 uses an extended IS window (2019–2023) to overweight the most recent price regime before validating on 2024–2025.**
+*A4 uses an extended IS window purely for validation.  
+Live A uses the full-window 2014–2025 parameters, confirmed by all A1–A4 OOS slices.*
 
 #### **B-Series WFA Timeline**
 
@@ -54,6 +55,10 @@ All slices for both A and B show profitable, stable performance across distinct 
     | B4    | OOS  | 2024         |
     | B5    | IS   | 2022–2023    |
     | B5    | OOS  | 2024–2025    |
+
+{: .notice--info}
+**The B5 parameter set was selected for the live B engine** because it showed the strongest alignment between IS and OOS performance,  
+the most stable PF/DD behavior across 2022–2025, and the highest robustness during the latest volatility regime.
 
 <br>
 

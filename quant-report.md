@@ -20,41 +20,37 @@ author_profile: true
 ZenWave uses **multi-slice Walk-Forward Analysis (WFA)** to validate robustness across independent out-of-sample (OOS) windows.  
 All slices for both A and B show profitable, stable performance across distinct market regimes.
 
-#### **A-Series WFA Timeline**
+#### A-Series WFA Timeline
 
-    A-Series (2014–2025)
-
-    | Slice | Role | Period     |
-    |-------|------|-----------|
-    | A1    | IS   | 2014–2018 |
-    | A1    | OOS  | 2019–2020 |
-    | A2    | IS   | 2016–2020 |
-    | A2    | OOS  | 2021–2022 |
-    | A3    | IS   | 2018–2022 |
-    | A3    | OOS  | 2023–2024 |
-    | A4    | IS   | 2019–2023 |
-    | A4    | OOS  | 2024–2025 |
+| Slice | Role | Period     |
+|-------|------|-----------|
+| A1    | IS   | 2014–2018 |
+| A1    | OOS  | 2019–2020 |
+| A2    | IS   | 2016–2020 |
+| A2    | OOS  | 2021–2022 |
+| A3    | IS   | 2018–2022 |
+| A3    | OOS  | 2023–2024 |
+| A4    | IS   | 2019–2023 |
+| A4    | OOS  | 2024–2025 |
 
 {: .notice--info}
 *A4 uses an extended IS window purely for validation.  
-Live A uses the full-window 2014–2025 parameters, confirmed by all A1–A4 OOS slices.*
+Live A uses the full-window 2014–2025 parameter set, validated by all A1–A4 OOS slices.*
 
-#### **B-Series WFA Timeline**
+#### B-Series WFA Timeline
 
-    B-Series (2018–2025)
-
-    | Slice | Role | Period       |
-    |-------|------|--------------|
-    | B1    | IS   | 07/2018–2020 |
-    | B1    | OOS  | 2021         |
-    | B2    | IS   | 2019–2021    |
-    | B2    | OOS  | 2022         |
-    | B3    | IS   | 2020–2022    |
-    | B3    | OOS  | 2023         |
-    | B4    | IS   | 2021–2023    |
-    | B4    | OOS  | 2024         |
-    | B5    | IS   | 2022–2023    |
-    | B5    | OOS  | 2024–2025    |
+| Slice | Role | Period        |
+|-------|------|---------------|
+| B1    | IS   | 07/2018–2020  |
+| B1    | OOS  | 2021          |
+| B2    | IS   | 2019–2021     |
+| B2    | OOS  | 2022          |
+| B3    | IS   | 2020–2022     |
+| B3    | OOS  | 2023          |
+| B4    | IS   | 2021–2023     |
+| B4    | OOS  | 2024          |
+| B5    | IS   | 2022–2023     |
+| B5    | OOS  | 2024–2025     |
 
 {: .notice--info}
 **The B5 parameter set was selected for the live B engine** because it showed the strongest alignment between IS and OOS performance,  

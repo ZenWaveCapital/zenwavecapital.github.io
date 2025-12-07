@@ -163,4 +163,4 @@ B5 parameter set is recommended for live use, offering:
 - parameter stability  
 - high regime alignment
 
-[Watch the video](https://youtu.be/XR5DyHUJmg0)
+[Watch the video on YouTube](https://youtu.be/XR5DyHUJmg0)

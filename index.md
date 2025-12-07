@@ -79,7 +79,7 @@ Explore all public ZenWave strategies on cTrader:
 
 ### ⚙️ [ZenWave B (Aggressive, 1.0% risk per trade)](https://ct-sc.icmarkets.com/investor/5R1v2xJQ)
 - **Type:** Medium-term adaptive trend engine  
-- **Status:** Walk-Forward validated ✅ (B1–B5 passed)
+- **Status:** Walk-Forward validated ✅ (B1–B5 passed) [Watch the video](https://youtu.be/XR5DyHUJmg0)
 - **Params used:** Production parameters are taken from the median
   walk-forward slice, selected for robust IS/OOS
   alignment, PF/DD stability, and resilience across

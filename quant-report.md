@@ -161,4 +161,6 @@ B5 parameter set is recommended for live use, offering:
 - strong OOS behavior  
 - controlled drawdowns  
 - parameter stability  
-- high regime alignment  
+- high regime alignment
+
+[Watch the video](https://youtu.be/XR5DyHUJmg0)

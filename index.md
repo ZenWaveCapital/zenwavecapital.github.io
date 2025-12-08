@@ -63,14 +63,13 @@ Explore all public ZenWave strategies on cTrader:
 ### ⚙️ [ZenWave A (Aggressive, 1.0% risk per trade)](https://ct-sc.icmarkets.com/investor/Or0DfD4)
 - **Type:** Long-term structural breakout engine  
 - **Status:** Walk-Forward validated ✅ (A1–A4 passed)
-- **Watch the video on:** [YouTube](https://youtu.be/r2AVlHbOZV0)
+- **WFA Video:** 🎥 [Watch on YouTube](https://youtu.be/r2AVlHbOZV0)
 - **Params used:** Production parameters were selected from a full
   12-year optimization (2014–2025). Walk-forward
   validation (A1–A4) confirmed parameter stability
   and regime robustness, allowing use of the full-
   window parameter set for the live model.
 - **Backtest and optimization period:** 11Y 9M (19/01/2014 – 14/11/2025)
-- **Next review and re-optimization:** 01/01/2027 📅
 
 #### 📊 Backtest stats
 - **Profit Factor (PF):** 2.08  
@@ -81,13 +80,12 @@ Explore all public ZenWave strategies on cTrader:
 ### ⚙️ [ZenWave B (Aggressive, 1.0% risk per trade)](https://ct-sc.icmarkets.com/investor/5R1v2xJQ)
 - **Type:** Medium-term adaptive trend engine  
 - **Status:** Walk-Forward validated ✅ (B1–B5 passed)
-- **Watch the video on:** [YouTube](https://youtu.be/XR5DyHUJmg0)
+- **WFA Video:** 🎥 [Watch on YouTube](https://youtu.be/XR5DyHUJmg0)
 - **Params used:** Production parameters are taken from the median
   walk-forward slice, selected for robust IS/OOS
   alignment, PF/DD stability, and resilience across
   2018–2025 volatility regimes.
 - **Backtest and optimization period:** 7Y 4M (01/07/2018 – 14/11/2025)
-- **Next review and re-optimization:** 01/01/2026 📅
 
 <br>
 

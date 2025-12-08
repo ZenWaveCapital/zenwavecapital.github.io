@@ -128,7 +128,7 @@ Fixed SL/TP, rule-based automation, no martingale, no grid, no simultaneous hedg
 ZenWave A passes WFA with **high confidence**.  
 The full-window (2014–2025) parameter set is validated and serves as the portfolio’s long-horizon backbone.
 
-[Watch the video on YouTube](https://youtu.be/r2AVlHbOZV0)
+- **WFA Video:** 🎥 [Watch on YouTube](https://youtu.be/r2AVlHbOZV0)
 
 <br>
 
@@ -165,4 +165,4 @@ B5 parameter set is recommended for live use, offering:
 - parameter stability  
 - high regime alignment
 
-[Watch the video on YouTube](https://youtu.be/XR5DyHUJmg0)
+- **WFA Video:** 🎥 [Watch on YouTube](https://youtu.be/XR5DyHUJmg0)

@@ -5,7 +5,6 @@ permalink: /about/
 author_profile: true
 ---
 
-# About ZenWave Capital  
 **Anonymous AI-Accelerated Quant Research Lab**
 
 ZenWaveCapital specializes exclusively in USDJPY, combining:

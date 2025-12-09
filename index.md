@@ -1,232 +1,73 @@
 ---
 layout: single
-title: "ZenWave A — 12-Year Walk-Forward-Validated Architecture"
+title: "ZenWave Capital — AI-Accelerated Quant Research Lab"
+permalink: /
 author_profile: true
+classes: wide
 ---
 
-**AI-accelerated quant research focused on long-horizon Walk-Forward-validated USDJPY engines, strict risk controls, and full automation.**
-
-<img src="/zenwave-a-12-secs.gif" alt="ZenWave A USDJPY equity curve 12 years in 12 seconds" width="700">
-
-<br>
-
-ZenWaveCapital is an **AI-accelerated quantitative research project**—a private, fully anonymous quant lab focused exclusively on **long-horizon USDJPY breakout engines** across three structural timeframes.
-
-The project uses a **dual-AI validation workflow**:
-- An internal AI assists in **WFA slicing, statistical auditing, and bias mitigation**,  
-- While an external public AI is used as an **independent secondary auditor** to confirm methodological rigor and eliminate hidden assumptions.
-
-This mirrors the **multi-layer validation pipelines** used in modern institutional quant teams.
-
-ZenWave consists of three engines:
-
-- **ZenWave A** – Long-term structural breakout engine (12-year WFA-validated)  
-- **ZenWave B** – Medium-term adaptive structural engine (5-slice WFA-validated)  
-- **ZenWave C** – Short-term volatility engine (development begins 2026)
-
-All models follow strict institutional principles:
-
-- **Deterministic rule sets** and **server-side execution**  
-- **Mandatory SL/TP on every trade**  
-- **No martingale, no grid, no hedging stacks**  
-- **No leverage escalation during drawdowns**  
-- **Multi-slice WFA as the core robustness standard**  
-- **AI-assisted validation and external AI governance review**  
-
-[📊 ZenWave Quant Report](/quant-report/){: .btn .btn--primary}
-
-<br>
+# AI-Accelerated Quant Research Lab  
+Long-horizon USDJPY engines.  
+Institutional-grade Walk-Forward validation.  
+Strict risk controls. Fully automated. Anonymous by design.
 
 ---
 
-## 🧠 Portfolio Architecture (A/B/C Engines)
+## 🚀 Explore the Engines
 
-            ZenWave Portfolio
-                    │
-        ┌───────────┼───────────┐
-        │           │           │
-    ZenWave A   ZenWave B    ZenWave C
-    Long-Term   Medium-Term  Short-Term
-        │           │           │
-        └───────────┴───────────┘
-                    │
-              Combined Output
+**ZenWave A — Long-Term Structural Engine**  
+12-year Walk-Forward Analysis (A1–A4), stable OOS behavior.  
+[View Engine A](/engines/a/)
 
-This architecture provides **multi-horizon diversification**,  
-reducing regime risk and improving long-term stability.
+**ZenWave B — Medium-Term Adaptive Engine**  
+5-slice Walk-Forward Analysis, modern volatility alignment.  
+[View Engine B](/engines/b/)
 
-<br>
+**ZenWave C — Short-Term Volatility Engine (2026)**  
+Full public build + documentation begins in 2026.  
+[View Engine C](/engines/c/)
 
 ---
 
-## 🚀 Current Public Strategies
+## 🧠 Portfolio Architecture
 
-ZenWaveCapital began its **public live performance** on **23.11.2025** with two clean, freshly seeded accounts:
+Multi-horizon diversification across A/B/C reduces regime risk and improves long-term stability.
 
-- **ZenWave A — €300 starting balance**  
-- **ZenWave B — €300 starting balance**
-
-These accounts form the **official transparent public track record** for ZenWave's USDJPY engines.
-
-🔗 **cTrader Profile:**  
-View all public strategies:  
-**[ZenWaveCapital on cTrader](https://ctrader.com/u/ZenWaveCapital)**
+[View Full Methodology →](/methodology/)
 
 ---
 
-### ⚙️ ZenWave A — Long-Term Structural Breakout Engine (1.0% risk per trade)
+## 📊 Quantitative Validation Report
 
-**Type:** Long-horizon structural breakout engine  
-**Status:** Walk-Forward validated ✔ (A1–A4 slices passed)  
-**WFA Video:** 🎥 [Watch on YouTube](https://youtu.be/r2AVlHbOZV0)
+A complete, dual-AI-audited Walk-Forward Analysis covering 2014–2025 (A-series) and 2018–2025 (B-series).
 
-ZenWave A is built from a **12-year structural optimization window (2014–2025)**.  
-Walk-Forward Analysis across four long-term slices confirmed:
-
-- **Parameter stability**  
-- **Consistent OOS performance**  
-- **Resilience across volatility regimes**  
-- **Long-horizon structural persistence**
-
-The engine uses the **full-window parameter set**, justified by uniform cross-slice behavior.
-
-**Backtest period:** 11Y 9M (19/01/2014 – 14/11/2025)
-
-#### 📊 Key Metrics  
-- **Profit Factor:** 2.08  
-- **Max Drawdown:** 35.61%
+[Open Quant Report →](/reports/quant-report/)
 
 ---
 
-### ⚙️ ZenWave B — Medium-Term Adaptive Engine (1.0% risk per trade)
+## 📈 Live Track Record
 
-**Type:** Medium-term adaptive structural engine  
-**Status:** Walk-Forward validated ✔ (B1–B5 slices passed)  
-**WFA Video:** 🎥 [Watch on YouTube](https://youtu.be/XR5DyHUJmg0)
+Public trading begins Nov 23, 2025 with clean seed accounts (€300 equivalent):
 
-ZenWave B targets medium-horizon drift and structural volatility shifts, validated across  
-**five WFA slices (2018–2025)**.
+- ZenWave A (1% risk per trade)  
+- ZenWave B (1% risk per trade)
 
-Production parameters come from the **median slice**, selected for:
-- High IS/OOS alignment  
-- Balanced PF/DD profile  
-- Resilience during volatility expansions  
-- Stability across multiple structural regimes  
-
-**Backtest period:** 7Y 4M (01/07/2018 – 14/11/2025)
-
-<br>
+[View cTrader Profile →](https://ctrader.com/u/ZenWaveCapital)
 
 ---
 
-## 👷‍♂️ In Development
+## 💼 Risk Tiers & Scaling
 
-### ⚙️ ZenWave C — Short-Term Volatility Engine (development starts 2026)
+Four-tier framework with correct baselines for minimum 0.01-lot precision.
 
-- **Type:** Short-term volatility engine  
-- **Status:** Research begins **2026**  
-- **Method:** Full multi-slice WFA (C1) will be applied after architecture design  
-- **Purpose:** Capture volatility bursts around Tokyo/London transitions  
-- **Availability:** Not yet live  
-- **Documentation:** Full build will be **openly documented on YouTube** throughout 2026
-
-<br>
+[View Risk Tiers →](/risk-tiers/)
 
 ---
 
-## 🧭 Multi-Tier Risk Scaling — Future Roadmap
+## 🕶️ About ZenWave (Anonymous by Design)
 
-ZenWaveCapital will introduce **risk-tiered versions** as live data matures.  
-Each tier uses the same engine architecture, differing only in **percentage risk per trade** and corresponding **baseline capital requirements**.
+ZenWaveCapital operates anonymously to keep the focus on research methodology, statistical integrity, and system architecture.
 
-### Risk Tiers (Fee Structure)
-
-| Tier | Risk/Trade | A-Series Fee | B-Series Fee | C-Series Fee |
-|------|------------|--------------|--------------|--------------|
-| **Aggressive** | **1.00%** | 10% | 20% | 25% |
-| **Balanced** | **0.75%** | 8% | 15% | 20% |
-| **Conservative** | **0.50%** | 6% | 12% | 15% |
-| **Ultra-Conservative** | **0.25%** | 4% | 8% | 10% |
-
-### Baseline Capital Requirements  
-To maintain accurate percentage risk and minimum **0.01 lot** position sizing, each tier requires a different verification baseline:
-
-| Tier | Baseline Required |
-|------|--------------------|
-| **Aggressive (1.00%)** | **$350** |
-| **Balanced (0.75%)** | **$470** |
-| **Conservative (0.50%)** | **$700** |
-| **Ultra-Conservative (0.25%)** | **$1,400** |
-
-### Release Rule  
-A risk tier becomes available once subscription revenue seeds the **appropriate baseline verification account** for that tier.  
-Lower-risk tiers require **higher baseline capital** to preserve risk accuracy and avoid position-size distortion.
-
-<br>
+[Read About →](/about/)
 
 ---
-
-## 📊 Philosophy & Principles
-
-- Single-instrument specialization: **USDJPY only**  
-- Real tick data, realistic spreads  
-- Pending orders only  
-- Mandatory SL/TP on every trade  
-- **No martingale / no grid / no hedge stacking**  
-- **No optimization tricks**  
-- Multi-slice WFA as core robustness  
-- Multi-horizon diversification  
-- **AI-assisted statistical auditing + external AI governance**
-
-<br>
-
-### 🔐 Risk-Control Framework
-
-    Position Sizing (1% risk)
-           │
-           ▼
-     Stop-Loss Logic
-           │
-           ▼
-     Take-Profit Logic
-           │
-           ▼
-    ┌───────────────────────────────────┐
-    │  No Martingale                    │
-    │  No Grid                          │
-    │  No Simultaneous Hedge Positions  │
-    └───────────────────────────────────┘
-           │
-           ▼
-     Server-Side Execution
-
-<br>
-
----
-
-## 🕶️ Anonymity by Design
-
-ZenWaveCapital is **intentionally anonymous**.  
-This keeps the focus on **methodology**, **quant engineering**, and **validation standards**, rather than on personal identity or background.
-
-This approach mirrors common practices in:
-
-- private quant research labs  
-- prop trading groups  
-- algorithmic development teams  
-- high-assurance engineering projects  
-
-Anonymity protects both the intellectual property and the independence of the research.
-
-<br>
-
----
-
-## 📜 Disclaimer
-
-Trading FX and CFDs on margin involves a **high level of risk** and may not be suitable for all investors.  
-You may lose more than your initial investment.
-
-- Past performance does not guarantee future results  
-- Nothing here constitutes investment or financial advice  
-- This material is for educational purposes only

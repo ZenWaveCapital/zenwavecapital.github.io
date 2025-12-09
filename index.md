@@ -64,7 +64,7 @@ Explore all public ZenWave strategies on cTrader:
 
 ---
 
-# ⚙️ ZenWave A — Long-Term Structural Breakout Engine (1.0% risk per trade)
+### ⚙️ ZenWave A — Long-Term Structural Breakout Engine (1.0% risk per trade)
 
 **Type:** Long-horizon structural breakout engine  
 **Status:** Walk-Forward validated ✔ (A1–A4 slices passed)  
@@ -82,13 +82,13 @@ The engine uses the **full-window parameter set** for live trading, justified by
 
 **Backtest period:** 11Y 9M (19/01/2014 – 14/11/2025)
 
-### 📊 Key Metrics  
+#### 📊 Key Metrics  
 - **Profit Factor:** 2.08  
 - **Max Balance Drawdown:** 35.61%  
 
 ---
 
-# ⚙️ ZenWave B — Medium-Term Adaptive Engine (1.0% risk per trade)
+### ⚙️ ZenWave B — Medium-Term Adaptive Engine (1.0% risk per trade)
 
 **Type:** Medium-term adaptive structural engine  
 **Status:** Walk-Forward validated ✔ (B1–B5 slices passed)  

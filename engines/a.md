@@ -5,7 +5,6 @@ permalink: /engines/a/
 author_profile: true
 ---
 
-# ZenWave A — Long-Term Structural Breakout Engine  
 **Risk:** 1.00% per trade  
 **Status:** Live · Fully Automated · Walk-Forward Validated  
 **WFA Slices:** A1–A4 (2014–2025)

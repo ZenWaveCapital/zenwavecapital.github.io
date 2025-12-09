@@ -22,7 +22,9 @@ All models:
 - Use **fixed rules** and **server-side execution**  
 - Run with **strict SL/TP**, **no martingale**, **no grid**, and **no simultaneous hedge positions**  
 - Are developed using **multi-slice Walk-Forward Analysis (WFA)** with robustness as the core design principle  
-- Utilize **AI-assisted slicing and statistical auditing** for validation accuracy and reduction of human bias  
+- Utilize **AI-assisted slicing and statistical auditing** for validation accuracy and reduction of human bias
+
+[📊 ZenWave Quant Report](/quant-report/){: .btn .btn--primary}
 
 <br>
 

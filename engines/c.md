@@ -5,7 +5,6 @@ permalink: /engines/c/
 author_profile: true
 ---
 
-# ZenWave C — Short-Term Volatility Engine  
 **Status:** Research begins 2026  
 **Documentation:** Fully public build on YouTube
 

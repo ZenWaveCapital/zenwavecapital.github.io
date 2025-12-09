@@ -14,7 +14,7 @@ minimal_mistakes_skin: "dark"
 # Site Identity
 # -------------------------
 title: "ZenWaveCapital"
-description: "AI-accelerated quantitative trading engines using long-horizon Walk-Forward Analysis, institutional-grade validation, strict risk controls, and full automation."
+description: "Anonymous AI-accelerated quant research lab building long-horizon, Walk-Forward-validated USDJPY trading engines with institutional-grade structure, strict risk controls, and full automation."
 logo: "/logo.png"
 
 # -------------------------
@@ -23,8 +23,11 @@ logo: "/logo.png"
 author:
   name: "ZenWaveCapital"
   avatar: "/logo.png"
-  bio: "AI-accelerated quant research project building long-horizon, walk-forward-validated trading engines with institutional-grade structure, strict risk controls, and full automation."
+  bio: "Anonymous AI-accelerated quant research lab specializing in long-horizon, Walk-Forward-validated USDJPY engines built with institutional-grade structure, strict risk controls, and fully automated execution."
   links:
+    - label: "Website"
+      icon: "fas fa-fw fa-home"
+      url: "https://zenwavecapital.com"
     - label: "YouTube"
       icon: "fab fa-fw fa-youtube"
       url: "https://www.youtube.com/@ZenWaveCapital"
@@ -46,6 +49,9 @@ atom_feed:
 # -------------------------
 footer:
   links:
+    - label: "Website"
+      icon: "fas fa-fw fa-home"
+      url: "https://zenwavecapital.com"
     - label: "YouTube"
       icon: "fab fa-fw fa-youtube"
       url: "https://www.youtube.com/@ZenWaveCapital"

@@ -41,7 +41,7 @@ Multi-horizon diversification across A/B/C reduces regime risk and improves long
 
 A complete, dual-AI-audited Walk-Forward Analysis covering 2014–2025 (A-series) and 2018–2025 (B-series).
 
-[Open Quant Report →](/reports/quant-report/)
+[Open Quant Report →](/quant-report/)
 
 ---
 

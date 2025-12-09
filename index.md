@@ -1,24 +1,28 @@
 ---
 layout: single
-title: ZenWave A 12-year backtest
+title: "ZenWave A — 12-Year Walk-Forward-Validated Architecture"
 author_profile: true
 ---
+
+**AI-accelerated quant research focused on long-horizon Walk-Forward-validated USDJPY engines, strict risk controls, and full automation.**
 
 <img src="/zenwave-a-12-secs.gif" alt="ZenWave A USDJPY equity curve 12 years in 12 seconds" width="700">
 
 <br>
 
-ZenWaveCapital focuses exclusively on **USDJPY breakout engines** across three time horizons:
+ZenWaveCapital is an **AI-accelerated quantitative research project**
+focused exclusively on **long-horizon USDJPY breakout engines** across three timeframes:
 
-- **ZenWave A** – Long-term USDJPY structured logic
-- **ZenWave B** – Medium-term USDJPY adaptive logic
-- **ZenWave C** – Short-term USDJPY reactive logic
+- **ZenWave A** – Long-term structural breakout engine (WFA-validated)  
+- **ZenWave B** – Medium-term adaptive structural engine (WFA-validated)  
+- **ZenWave C** – Short-term volatility engine (development begins 2026)
 
 All models:
 
 - Use **fixed rules** and **server-side execution**  
 - Run with **strict SL/TP**, **no martingale**, **no grid**, and **no simultaneous hedge positions**  
-- Are developed with **Walk-Forward Analysis (WFA)** and robustness as core design principles [📊 Quant Report](quant-report)
+- Are developed using **multi-slice Walk-Forward Analysis (WFA)** with robustness as the core design principle  
+- Utilize **AI-assisted slicing and statistical auditing** for validation accuracy and reduction of human bias  
 
 <br>
 
@@ -35,7 +39,7 @@ All models:
                     │
               Combined Output
 
-This structure creates **multi-horizon diversification**, reducing regime risk and improving long-term stability.
+This structure creates **multi-horizon diversification**, significantly reducing regime risk and improving long-term stability.
 
 <br>
 
@@ -44,7 +48,7 @@ This structure creates **multi-horizon diversification**, reducing regime risk a
 ### 📢 Official Launch — Public Live Track Record
 
 ZenWaveCapital begins its **public live performance** on **23.11.2025**,  
-with fresh, cleanly funded public strategy accounts:
+with freshly seeded, clean public strategy accounts:
 
 - **ZenWave A — €300 starting balance**  
 - **ZenWave B — €300 starting balance**
@@ -60,50 +64,65 @@ Explore all public ZenWave strategies on cTrader:
 
 ---
 
-### ⚙️ [ZenWave A (Aggressive, 1.0% risk per trade)](https://ct-sc.icmarkets.com/investor/Or0DfD4)
-- **Type:** Long-term structural breakout engine  
-- **Status:** Walk-Forward validated ✅ (A1–A4 passed)
-- **WFA Video:** 🎥 [Watch on YouTube](https://youtu.be/r2AVlHbOZV0)
-- **Params used:** Production parameters were selected from a full
-  12-year optimization (2014–2025). Walk-forward
-  validation (A1–A4) confirmed parameter stability
-  and regime robustness, allowing use of the full-
-  window parameter set for the live model.
-- **Backtest and optimization period:** 11Y 9M (19/01/2014 – 14/11/2025)
+# ⚙️ ZenWave A — Long-Term Structural Breakout Engine (1.0% risk per trade)
 
-#### 📊 Backtest stats
-- **Profit Factor (PF):** 2.08  
-- **Max Balance DD:** 35.61%
+**Type:** Long-horizon structural breakout engine  
+**Status:** Walk-Forward validated ✔ (A1–A4 slices passed)  
+**WFA Video:** 🎥 [Watch on YouTube](https://youtu.be/r2AVlHbOZV0)
+
+ZenWave A is built from a **12-year structural optimization window (2014–2025)**.  
+Its Walk-Forward Analysis across four long-term slices (A1–A4) confirmed:
+
+- **parameter stability**,  
+- **consistent out-of-sample performance**,  
+- **robustness across volatility regimes**, and  
+- **long-horizon structural persistence**.
+
+The engine uses the **full-window parameter set** for live trading, justified by its uniform cross-slice behavior.
+
+**Backtest period:** 11Y 9M (19/01/2014 – 14/11/2025)
+
+### 📊 Key Metrics  
+- **Profit Factor:** 2.08  
+- **Max Balance Drawdown:** 35.61%  
 
 ---
 
-### ⚙️ [ZenWave B (Aggressive, 1.0% risk per trade)](https://ct-sc.icmarkets.com/investor/5R1v2xJQ)
-- **Type:** Medium-term adaptive trend engine  
-- **Status:** Walk-Forward validated ✅ (B1–B5 passed)
-- **WFA Video:** 🎥 [Watch on YouTube](https://youtu.be/XR5DyHUJmg0)
-- **Params used:** Production parameters are taken from the median
-  walk-forward slice, selected for robust IS/OOS
-  alignment, PF/DD stability, and resilience across
-  2018–2025 volatility regimes.
-- **Backtest and optimization period:** 7Y 4M (01/07/2018 – 14/11/2025)
+# ⚙️ ZenWave B — Medium-Term Adaptive Engine (1.0% risk per trade)
+
+**Type:** Medium-term adaptive structural engine  
+**Status:** Walk-Forward validated ✔ (B1–B5 slices passed)  
+**WFA Video:** 🎥 [Watch on YouTube](https://youtu.be/XR5DyHUJmg0)
+
+ZenWave B focuses on medium-term structural drift, validated across  
+**five Walk-Forward slices (2018–2025)**.  
+Production parameters are derived from the **median slice**, selected for:
+
+- strong IS/OOS alignment,  
+- balanced PF/DD characteristics,  
+- resilience during high-volatility periods,  
+- stability across multiple structural regimes.
+
+**Backtest period:** 7Y 4M (01/07/2018 – 14/11/2025)
 
 <br>
 
 ## 👷‍♂️ Currently in the Works
 
-### ⚙️ ZenWave C (Aggressive, 1.0% risk per trade)
+### ⚙️ ZenWave C — Short-Term Volatility Engine (development starts 2026)
+
 - **Type:** Short-term modern volatility engine  
-- **Status:** Work on ZenWave C will commence in 2026. It will be **rebuilt from scratch** using a simplified and cleaner quant framework. Development is in the early research phase, and the first version will undergo a full Walk-Forward Analysis (WFA) once the core logic is complete.  
-- **Purpose:** Designed to capture short-term volatility bursts during Tokyo/London session transitions, complementing the long-term engine (A) and the medium-term engine (B).  
-- **Availability:** ZenWave C is *not yet available* for copy-trading. Only A and B are currently production-ready.  
-- **Next update:** After completion of the initial core model and preparation for the first WFA slice (C1).
+- **Status:** Research begins in **2026**, with a full rebuild using a cleaner and simplified quant framework.  
+- **Process:** Once core logic is complete, the model will undergo a **full Walk-Forward Analysis (C1)**.  
+- **Purpose:** Capture volatility bursts during Tokyo/London transitions, complementing A (long-term) and B (medium-term).  
+- **Availability:** *Not yet live* — only A and B are available for copy-trading.  
+- **Documentation:** The entire ZenWave C build will be **openly documented on YouTube throughout 2026**.
 
 <br>
 
 ## 🧭 Future Roadmap: Multi-Tier Risk Scaling
 
-ZenWaveCapital will gradually introduce **lower-risk variants** of each strategy as live performance matures.  
-This allows followers to choose a risk level that matches their goals.
+ZenWaveCapital will gradually introduce **lower-risk variants** for each engine as live performance matures.
 
 ### Planned Risk Tiers:
 
@@ -114,26 +133,21 @@ This allows followers to choose a risk level that matches their goals.
 | **Conservative** | **0.50%** | 6% | 12% | 15% |
 | **Ultra-Conservative** | **0.25%** | 4% | 8% | 10% |
 
-### Planned release schedule:
-Each additional tier (Balanced, Conservative, Ultra-Conservative)
-will be launched once sufficient subscription revenue is available
-to seed the required starting balance (€300 per tier).
-This ensures that every tier begins with real capital and verified
-live performance.
+**Release schedule:**  
+Each tier launches once sufficient subscription revenue seeds a €300 baseline for live verification.
 
 <br>
 
 ## 📊 Philosophy & Principles
 
-- Single-instrument focus: **USDJPY only**  
-- Real tick data with realistic spreads  
-- Server-side pending orders  
+- Single-instrument specialization: **USDJPY only**  
+- Real tick data + realistic spreads  
+- Server-side pending order execution  
 - Strict SL/TP on every trade  
-- **No martingale**  
-- **No grid**  
-- **No simultaneous hedge positions**  
-- WFA methodology for robustness  
-- Multi-horizon diversification (A/B/C engines)
+- **No martingale**, **no grid**, **no hedge stacking**  
+- Multi-slice Walk-Forward Analysis for robustness  
+- Multi-horizon diversification (A/B/C engines)  
+- **AI-assisted validation workflows** to ensure slicing precision & eliminate human bias  
 
 ### 🔐 Risk-Control Framework
 

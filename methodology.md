@@ -5,7 +5,6 @@ permalink: /methodology/
 author_profile: true
 ---
 
-# ZenWave Methodology  
 AI-Accelerated · Multi-Slice Walk-Forward · Full Automation
 
 ---

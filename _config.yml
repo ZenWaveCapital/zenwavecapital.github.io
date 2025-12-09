@@ -31,6 +31,9 @@ author:
     - label: "Telegram"
       icon: "fab fa-fw fa-telegram-plane"
       url: "https://t.me/ZenWaveCapital"
+    - label: "X"
+      icon: "fab fa-fw fa-x-twitter"
+      url: "https://x.com/zenwavecapital"
 
 # -------------------------
 # RSS Feed
@@ -49,3 +52,6 @@ footer:
     - label: "Telegram"
       icon: "fab fa-fw fa-telegram-plane"
       url: "https://t.me/ZenWaveCapital"
+    - label: "X"
+      icon: "fab fa-fw fa-x-twitter"
+      url: "https://x.com/zenwavecapital"

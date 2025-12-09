@@ -6,7 +6,6 @@ author_profile: true
 classes: wide
 ---
 
-# AI-Accelerated Quant Research Lab  
 Long-horizon USDJPY engines.  
 Institutional-grade Walk-Forward validation.  
 Strict risk controls. Fully automated. Anonymous by design.

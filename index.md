@@ -136,17 +136,31 @@ Production parameters come from the **median slice**, selected for:
 
 ## 🧭 Multi-Tier Risk Scaling — Future Roadmap
 
-ZenWaveCapital will introduce **risk-tiered versions** as live data matures.
+ZenWaveCapital will introduce **risk-tiered versions** as live data matures.  
+Each tier uses the same engine architecture, differing only in **percentage risk per trade** and corresponding **baseline capital requirements**.
+
+### Risk Tiers (Fee Structure)
 
 | Tier | Risk/Trade | A-Series Fee | B-Series Fee | C-Series Fee |
-|------|-------------|---------------|---------------|---------------|
+|------|------------|--------------|--------------|--------------|
 | **Aggressive** | **1.00%** | 10% | 20% | 25% |
 | **Balanced** | **0.75%** | 8% | 15% | 20% |
 | **Conservative** | **0.50%** | 6% | 12% | 15% |
 | **Ultra-Conservative** | **0.25%** | 4% | 8% | 10% |
 
-**Release rule:**  
-A tier is released once subscription revenue seeds a €300 live verification baseline.
+### Baseline Capital Requirements  
+To maintain accurate percentage risk and minimum **0.01 lot** position sizing, each tier requires a different verification baseline:
+
+| Tier | Baseline Required |
+|------|--------------------|
+| **Aggressive (1.00%)** | **$350** |
+| **Balanced (0.75%)** | **$470** |
+| **Conservative (0.50%)** | **$700** |
+| **Ultra-Conservative (0.25%)** | **$1,400** |
+
+### Release Rule  
+A risk tier becomes available once subscription revenue seeds the **appropriate baseline verification account** for that tier.  
+Lower-risk tiers require **higher baseline capital** to preserve risk accuracy and avoid position-size distortion.
 
 <br>
 

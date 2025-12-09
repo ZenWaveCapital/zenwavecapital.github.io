@@ -4,6 +4,7 @@ main:
     url: "/"
 
   - title: "Engines"
+    url: "/engines/"
     children:
       - title: "ZenWave A — Long-Term"
         url: "/engines/a/"
@@ -13,7 +14,7 @@ main:
         url: "/engines/c/"
 
   - title: "Quant Report"
-    url: "/reports/quant-report/"
+    url: "/quant-report/"
 
   - title: "Methodology"
     url: "/methodology/"

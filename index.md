@@ -74,8 +74,6 @@ View all public strategies:
 
 ---
 
----
-
 ### ⚙️ ZenWave A — Long-Term Structural Breakout Engine (1.0% risk per trade)
 
 **Type:** Long-horizon structural breakout engine  

@@ -32,7 +32,7 @@ Walk-Forward Analysis (A1–A4) confirms:
 ## 📈 Metrics
 
 - **Profit Factor:** 2.08  
-- **Max Balance Drawdown:** 35.61%  
+- **Max Balance Drawdown:** 35.53%  
 - **Backtest Period:** Jan 2014 – Nov 2025
 
 ---

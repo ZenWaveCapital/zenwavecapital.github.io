@@ -5,7 +5,6 @@ permalink: /engines/b/
 author_profile: true
 ---
 
-# ZenWave B — Medium-Term Adaptive Structural Engine  
 **Risk:** 1.00% per trade  
 **Status:** Live · Fully Automated · WFA-Validated  
 **WFA Slices:** B1–B5 (2018–2025)

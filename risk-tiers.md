@@ -5,7 +5,6 @@ permalink: /risk-tiers/
 author_profile: true
 ---
 
-# Risk Tiers & Baseline Requirements  
 All tiers use the same engine logic; only **risk per trade** and **baseline capital** differ.
 
 ---

@@ -25,9 +25,6 @@ author:
   avatar: "/logo.png"
   bio: "Anonymous AI-accelerated quant research lab specializing in long-horizon, Walk-Forward-validated USDJPY engines built with institutional-grade structure, strict risk controls, and fully automated execution."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-home"
-      url: "https://zenwavecapital.com"
     - label: "YouTube"
       icon: "fab fa-fw fa-youtube"
       url: "https://www.youtube.com/@ZenWaveCapital"
@@ -49,9 +46,6 @@ atom_feed:
 # -------------------------
 footer:
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-home"
-      url: "https://zenwavecapital.com"
     - label: "YouTube"
       icon: "fab fa-fw fa-youtube"
       url: "https://www.youtube.com/@ZenWaveCapital"

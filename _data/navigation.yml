@@ -1,0 +1,28 @@
+# Main site navigation
+main:
+  - title: "Home"
+    url: "/"
+
+  - title: "Engines"
+    children:
+      - title: "ZenWave A — Long-Term"
+        url: "/engines/a/"
+      - title: "ZenWave B — Medium-Term"
+        url: "/engines/b/"
+      - title: "ZenWave C — Short-Term (2026)"
+        url: "/engines/c/"
+
+  - title: "Quant Report"
+    url: "/reports/quant-report/"
+
+  - title: "Methodology"
+    url: "/methodology/"
+
+  - title: "Risk Tiers"
+    url: "/risk-tiers/"
+
+  - title: "About"
+    url: "/about/"
+
+  - title: "cTrader"
+    url: "https://ctrader.com/u/ZenWaveCapital"

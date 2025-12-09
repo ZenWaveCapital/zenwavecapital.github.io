@@ -14,7 +14,7 @@ minimal_mistakes_skin: "dark"
 # Site Identity
 # -------------------------
 title: "ZenWaveCapital"
-description: "Systematic USDJPY breakout engines with institutional-style validation, strict risk controls, and full automation."
+description: "AI-accelerated quantitative trading engines using long-horizon Walk-Forward Analysis, institutional-grade validation, strict risk controls, and full automation."
 logo: "/logo.png"
 
 # -------------------------
@@ -23,7 +23,7 @@ logo: "/logo.png"
 author:
   name: "ZenWaveCapital"
   avatar: "/logo.png"
-  bio: "Systematic USDJPY breakout engines with institutional-style validation, strict risk controls, and full automation."
+  bio: "AI-accelerated quant research project building long-horizon, walk-forward-validated trading engines with institutional-grade structure, strict risk controls, and full automation."
   links:
     - label: "YouTube"
       icon: "fab fa-fw fa-youtube"

@@ -11,7 +11,7 @@ author_profile: true
 
 <img src="/zenwave-a-12-secs.gif" width="700">
 
-ZenWave A is a **12-year structural USDJPY breakout engine** built using rigorous institutional-grade Walk-Forward Analysis.  
+ZenWave A is a **12-year structural USDJPY breakout engine** built using rigorous, institutional-style Walk-Forward Analysis.  
 It forms the **foundation** of the ZenWave portfolio.
 
 ---
@@ -20,12 +20,15 @@ It forms the **foundation** of the ZenWave portfolio.
 
 Walk-Forward Analysis (A1–A4) confirms:
 
-- Stable OOS performance  
-- Consistent profit factor  
-- Resilience across volatility regimes  
+- Stable out-of-sample performance  
+- Consistent profit factor across slices  
+- Resilience across multiple volatility regimes  
 - No slice-level collapses  
-- Parameter stability across 12 years  
-- Dual-AI audit confirming top-0.1% structural robustness  
+- Parameter stability across a 12-year window  
+- **AI-assisted statistical auditing indicating exceptional robustness within ZenWave’s internal WFA benchmark library**
+
+{: .notice--info}
+*The AI-assisted audit evaluates structural consistency, IS/OOS alignment, drawdown behavior, and parameter stability across a large internal library of alternative configurations generated during the research process.*
 
 ---
 

@@ -10,7 +10,6 @@ Long-horizon USDJPY engines.
 Institutional-grade Walk-Forward validation.  
 Strict risk controls. Fully automated. Anonymous by design.
 
----
 
 ## Why USD/JPY?
 
@@ -43,7 +42,6 @@ If they succeed, the path will not be pretty — but it will be real.
 This approach filters for patience, discipline, and long-term thinking —
 not for short-term excitement.
 
----
 
 ## 🚀 Explore the Engines
 
@@ -59,7 +57,6 @@ not for short-term excitement.
 Full public build + documentation begins in 2026.  
 [View Engine C](/engines/c/)
 
----
 
 ## 🧠 Portfolio Architecture
 
@@ -67,7 +64,6 @@ Multi-horizon diversification across A/B/C reduces regime risk and improves long
 
 [View Full Methodology →](/methodology/)
 
----
 
 ## 📊 Quantitative Validation Report
 
@@ -75,7 +71,6 @@ A complete, dual-AI-audited Walk-Forward Analysis covering 2014–2025 (A-series
 
 [Open Quant Report →](/quant-report/)
 
----
 
 ## 📈 Live Track Record
 
@@ -86,7 +81,6 @@ Public trading begins Nov 23, 2025 with clean seed accounts (€300 equivalent):
 
 [View cTrader Profile →](https://ctrader.com/u/ZenWaveCapital)
 
----
 
 ## 💼 Risk Tiers & Scaling
 
@@ -94,12 +88,9 @@ Four-tier framework with correct baselines for minimum 0.01-lot precision.
 
 [View Risk Tiers →](/risk-tiers/)
 
----
 
 ## 🕶️ About ZenWave (Anonymous by Design)
 
 ZenWaveCapital operates anonymously to keep the focus on research methodology, statistical integrity, and system architecture.
 
 [Read About →](/about/)
-
----

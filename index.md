@@ -12,6 +12,39 @@ Strict risk controls. Fully automated. Anonymous by design.
 
 ---
 
+## Why USD/JPY?
+
+Most retail trading systems are built on crypto, indices, or gold —
+markets that tend to produce smooth equity curves and attractive screenshots.
+
+ZenWave is built on **USD/JPY** for a different reason.
+
+USD/JPY is one of the most heavily traded and institutionally arbitraged FX pairs in the world.  
+Structural weaknesses don’t hide here for long.
+
+There are no liquidity excuses.  
+No “manipulation” narratives.  
+No reliance on indicator lag or curve-smoothing techniques.
+
+If a strategy survives on USD/JPY across multiple market regimes,
+it typically does so for **structural reasons**, not cosmetic ones.
+
+That is why ZenWave’s equity curves are sometimes uncomfortable.  
+Why long losing streaks are shown publicly.  
+Why drawdowns are accepted rather than optimized away.
+
+This project is not designed to look smooth.  
+It is designed to remain intact under stress —
+including volatility expansions, policy shocks, and regime shifts such as Bank of Japan interventions.
+
+If the engines fail, they will fail within clearly defined risk limits and transparent rules.  
+If they succeed, the path will not be pretty — but it will be real.
+
+This approach filters for patience, discipline, and long-term thinking —
+not for short-term excitement.
+
+---
+
 ## 🚀 Explore the Engines
 
 **ZenWave A — Long-Term Structural Engine**  

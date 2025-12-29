@@ -12,6 +12,8 @@ classes: wide
 ZenWave Capital develops rule-based FX engines designed to survive regime shifts,
 long drawdowns, and volatility expansion — without discretionary intervention.
 
+→ **[Why ZenWave is built on USD/JPY →](/why-usdjpy/)**
+
 ---
 
 ## Explore the Engines

@@ -5,8 +5,6 @@ permalink: /why-usdjpy/
 author_profile: true
 ---
 
-## Why USD/JPY?
-
 Most retail trading systems are built on crypto, indices, or gold —
 markets that tend to produce smooth equity curves and attractive screenshots.
 

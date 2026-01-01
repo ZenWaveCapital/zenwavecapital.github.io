@@ -14,6 +14,9 @@ long drawdowns, and volatility expansion — without discretionary intervention.
 
 → **[Why ZenWave is built on USD/JPY →](/why-usdjpy/)**
 
+**Status:** ZenWave A & B entered live deployment in Nov 2025.  
+2025 establishes the official forward-performance baseline.
+
 ---
 
 ## Explore the Engines

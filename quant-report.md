@@ -19,7 +19,7 @@ ZenWaveCapital operates as an **anonymous AI-accelerated quant research lab**, u
   WFA slicing, statistical auditing, data boundary checks, leakage prevention.
 - A **secondary external public AI** is used as an independent auditor to verify interpretation, methodological integrity, and bias mitigation.
 
-This two-layer validation framework elevates ZenWave beyond typical retail approaches and ensures **high procedural correctness**, **consistent out-of-sample behavior**, and **statistical defensibility**.
+This two-layer validation framework ensures **high procedural correctness**, **consistent out-of-sample behavior**, and **statistical defensibility**.
 
 This report documents the formal validation results for ZenWave A and ZenWave B.
 
@@ -102,9 +102,9 @@ A4 uses an extended IS window for validation only.
 
 - **ZenWave A** = long-term structural breakout engine (2014–2025)  
 - **ZenWave B** = medium-term adaptive breakout engine (2018–2025)  
-- Combined = **multi-horizon robustness** with reduced decay risk, smoother equity, and broader regime coverage
+- Combined = **multi-horizon robustness** with reduced decay risk and broader regime coverage
 
-This structure mimics institutional multi-horizon layering used in professional quant portfolios.
+This structure mirrors institutional multi-horizon portfolio design.
 
 ---
 
@@ -129,7 +129,7 @@ This structure mimics institutional multi-horizon layering used in professional 
                ▼
         Server-Side Execution
 
-This mirrors **institutional risk standards** used by prop desks and quant shops:
+This mirrors **institutional risk standards**:
 
 - No recovery trading  
 - No leverage escalation  
@@ -144,29 +144,29 @@ This mirrors **institutional risk standards** used by prop desks and quant shops
 
 ## **Strategy Type**
 Long-term USDJPY structural breakout engine (2014–2025).  
-Fully automated, deterministic rules, fixed SL/TP, no martingale, no grid.
+Fully automated, deterministic rules, fixed SL/TP.
 
 ## **Walk-Forward Findings (A1–A4)**
 
-ZenWave A shows:
+ZenWave A demonstrates:
 
-- Fully profitable across all OOS segments  
-- No catastrophic OOS regime failures  
-- Stable profit factor across all windows  
-- Smooth structural equity drift  
-- Controlled, natural parameter evolution  
-- Stability across 12 years of changing market regimes  
+- Fully profitable OOS behavior across all slices  
+- No catastrophic regime failures  
+- Stable profit factor  
+- Controlled drawdowns  
+- Natural parameter evolution  
+- Structural consistency across 12 years  
 
 ## **AI-Assisted Validation Findings**
 - All slicing boundaries verified  
 - Zero data leakage  
-- IS/OOS returns show **high structural alignment**  
-- Cross-slice robustness places ZenWave A in the **top ~0.1%** of all WFA-tested strategies  
-- External AI auditor confirms the methodology as *statistically disciplined and institutionally sound*
+- IS/OOS behavior shows strong structural alignment  
+- Robustness ranks as **exceptional within ZenWave’s internal WFA benchmark library**  
+- External AI auditor confirms methodology as statistically disciplined and institutionally sound  
 
 ## **Robustness Conclusion**
 ZenWave A passes with **high institutional confidence**.  
-Its full-window 2014–2025 parameters form the **long-term backbone** of the ZenWave portfolio.
+Its full-window parameters form the **long-term backbone** of the ZenWave portfolio.
 
 **WFA Video:** 🎥 [Watch](https://youtu.be/r2AVlHbOZV0)
 
@@ -178,38 +178,80 @@ Its full-window 2014–2025 parameters form the **long-term backbone** of the Ze
 
 ## **Strategy Type**
 Medium-term USDJPY breakout engine (2018–2025).  
-Adaptive structural logic, deterministic execution, fixed SL/TP.
+Adaptive structural logic, deterministic execution.
 
 ## **Walk-Forward Findings (B1–B5)**
 
 All slices produce profitable OOS performance:
 
-- **B1** — Moderate stability; profitable  
-- **B2** — Strong and balanced OOS  
-- **B3** — Weakest slice but still profitable  
+- **B1** — Moderate stability  
+- **B2** — Strong and balanced  
+- **B3** — Weakest slice but profitable  
 - **B4** — Excellent stability  
-- **B5** — Ideal alignment with modern volatility (2022–2025)  
+- **B5** — Best alignment with modern volatility  
 
 ## **Parameter Behavior**
 - Controlled drift across slices  
 - No chaotic jumps  
-- Healthy PF/DD consistency  
-- B4 & B5 exhibit the highest regime compliance  
+- Stable PF/DD characteristics  
 
 ## **AI-Assisted Validation Findings**
-- Verified parameter consistency  
-- Correct slicing boundaries  
-- Strict OOS integrity  
-- No signs of overfitting  
+- Verified slicing integrity  
+- No overfitting detected  
 - Behavior matches expectations for a medium-horizon structural engine  
 
 ## **Robustness Conclusion**
 ZenWave B passes WFA with stable OOS results.  
-**B5 is selected for live deployment** due to:
-
-- High OOS stability  
-- Strong PF/DD alignment  
-- Robustness in volatile environments  
-- Low decay risk across recent market regimes  
+**B5 is selected for live deployment** due to regime alignment and low fragility.
 
 **WFA Video:** 🎥 [Watch](https://youtu.be/XR5DyHUJmg0)
+
+---
+
+# 2025 Year-End Baseline (Post-Launch)
+
+This section establishes the **official post-launch baseline** for ZenWave A and B as of **31 Dec 2025**.
+
+## Engine Status (as of 31 Dec 2025)
+
+| Engine | Status | Production Parameters | Notes |
+|------|--------|------------------------|------|
+| ZenWave A | Live | Full-window (2014–2025) | Frozen |
+| ZenWave B | Live | B5 slice | Frozen |
+
+{: .notice--info}
+**Governance:** As of 31 Dec 2025, ZenWave A and B parameters are frozen.  
+No parameter, risk, or logic changes are permitted outside a formal retirement or replacement decision.
+
+---
+
+## FPT Consistency Check  
+**Backtest (Demo) vs Backtest (Live Account) vs Live Actual**
+
+To verify execution realism, a three-way forward-performance comparison was performed:
+
+- **Backtest (Demo Account Assumptions)** — optimistic execution envelope  
+- **Backtest (Live Account Assumptions)** — conservative execution envelope  
+- **Live Actual** — real execution  
+
+### Result
+
+Live execution remains within the conservative envelope of historical simulation.
+
+Observed characteristics:
+- Comparable trade frequency and directionality  
+- Divergence primarily attributable to spread variability and execution friction  
+- No structural anomalies or tail losses beyond modeled risk  
+
+---
+
+## Execution Realism Note
+
+Historical replay under demo and live account assumptions can produce different outcomes due to spread dynamics, commission modeling, and fill assumptions.
+
+For ZenWave:
+- Demo backtest represents the **upper bound**
+- Live-account backtest represents the **lower bound**
+- Live actual represents **reality**
+
+This relationship is expected and does not invalidate the underlying strategy logic.

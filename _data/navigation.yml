@@ -16,6 +16,9 @@ main:
   - title: "Quant Report"
     url: "/quant-report/"
 
+  - title: "Forward Performance Tracking"
+    url: "/forward-performance-tracking/"
+
   - title: "Methodology"
     url: "/methodology/"
 

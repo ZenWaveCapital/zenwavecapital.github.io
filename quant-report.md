@@ -255,3 +255,38 @@ For ZenWave:
 - Live actual represents **reality**
 
 This relationship is expected and does not invalidate the underlying strategy logic.
+
+---
+
+## Transition to Forward Performance Tracking
+
+This Quantitative Validation Report documents **what was built**, **how it was tested**, and **why it was approved for production**.
+
+It intentionally stops short of ongoing performance reporting.
+
+From this point forward, live behavior is documented separately through **Forward Performance Tracking (FPT)** — a structured, periodic log that compares:
+
+- demo backtests (optimistic execution assumptions)
+- live-account backtests (conservative execution assumptions)
+- actual live trades
+
+Each Forward Performance Tracking entry:
+- uses the same parameters frozen at year-end 2025
+- covers the same time windows
+- includes full video context explaining assumptions and observations
+
+No changes are made retroactively.
+
+---
+
+## Forward Performance Tracking
+
+Live performance tracking for ZenWave A and B is published here:
+
+👉 https://zenwavecapital.com/forward-performance-tracking/
+
+The accompanying video explanations are available on the ZenWaveCapital YouTube channel.
+
+---
+
+*This separation ensures that research, validation, and live observation remain clearly defined and auditable over time.*

@@ -283,7 +283,7 @@ No changes are made retroactively.
 
 Live performance tracking for ZenWave A and B is published here:
 
-👉 https://zenwavecapital.com/forward-performance-tracking/
+👉 **[Forward Performance Tracking](/forward-performance-tracking/)**
 
 The accompanying video explanations are available on the ZenWaveCapital YouTube channel.
 

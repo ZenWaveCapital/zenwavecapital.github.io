@@ -50,7 +50,7 @@ It shows:
 👉 [Forward Performance Tracking #1 — Demo vs Live Backtests Explained](https://youtu.be/P3XFik7Y-No)
 
 **Equity curve:**  
-*(chart image goes here)*
+![Forward Performance Tracking #001 — Demo vs Live Backtests + Actual](/equity-07.01.2025.png)
 
 > This chart is updated as new live data becomes available.  
 > It represents documentation, not prediction.

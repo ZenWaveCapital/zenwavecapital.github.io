@@ -3,6 +3,7 @@ title: "Forward Performance Tracking"
 permalink: /forward-performance-tracking/
 layout: single
 toc: false
+author_profile: true
 ---
 
 ## What this page is

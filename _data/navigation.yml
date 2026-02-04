@@ -22,9 +22,6 @@ main:
   - title: "Methodology"
     url: "/methodology/"
 
-  - title: "Risk Tiers"
-    url: "/risk-tiers/"
-
   - title: "About"
     url: "/about/"
 

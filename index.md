@@ -62,6 +62,18 @@ Execution is fully automated with fixed risk per trade and no discretionary over
 
 → [View cTrader Profile](https://ctrader.com/u/ZenWaveCapital)
 
+### ZenWave Book
+
+ZenWave A and ZenWave B now operate as a single portfolio ("ZenWave Book").
+
+- **ZenWave A** — 0.25% risk per trade
+- **ZenWave B** — 0.25% risk per trade
+
+Total portfolio risk capped at **0.5%**.
+Logic frozen. Fully automated. No discretionary intervention.
+
+→ [View ZenWave Book on cTrader](https://ct-sc.icmarkets.com/copy/strategy/112101)
+
 ---
 
 <small>
